@@ -14,9 +14,6 @@ Build a simple SQLite-based sales database, perform basic data analysis using SQ
 - `sales_summary.py`: Runs SQL queries and generates a revenue bar chart.
 - `sales_chart.png`: Bar chart showing total revenue by product.
 
-## 📈 Output Example
-![Sales Chart](sales_chart.png)
-
 ## ▶️ How to Run
 ```bash
 python create_sales_data.py
